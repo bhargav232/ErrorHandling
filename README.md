@@ -1,4 +1,4 @@
-Industrial Standard Project Structure and Error Handling
+**Industrial Standard Project Structure and Error Handling**
 Project Structure
 A well-organized project structure is essential for clarity, maintainability, and collaboration among team members. Here's a recommended structure for a Node.js project:
 
